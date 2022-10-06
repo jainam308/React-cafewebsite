@@ -28,8 +28,8 @@ export default function Coffes() {
 						<p className="pt-3">Espresso is a coffee-brewing method of Italian origin, in which a small amount of nearly boiling water is forced under 9–10 bars of pressure through finely-ground coffee beans. </p>
                         <a href="#buy" className="btn btn-style btn-primary mt-md-5 mt-4">Buy Now</a>
 					</div>
-				</div>
-			</div>
+						</div>
+						</div>
 			<div className="tab-pane fade show active" id="pills-team2" role="tabpanel" aria-labelledby="pills-team2-tab">
 				<div className="team-grids row">
 					<div className="col-lg-6">
@@ -41,8 +41,8 @@ export default function Coffes() {
 						nisi ut ipsum egestas, et velit convallis. Phasellus rhoncus tempus. </p>
                         <a href="#buy" className="btn btn-style btn-primary mt-md-5 mt-4">Buy Now</a>
 					</div>
-				</div>
-			</div>
+					</div>	
+					</div>
 			<div className="tab-pane fade show active" id="pills-team3" role="tabpanel" aria-labelledby="pills-team3-tab">
 				<div className="team-grids row">
 					<div className="col-lg-6">
@@ -55,8 +55,9 @@ export default function Coffes() {
 						nisi ut ipsum egestas, et velit convallis. Phasellus rhoncus tempus. </p>
                         <a href="#buy" className="btn btn-style btn-primary mt-md-5 mt-4">Buy Now</a>
 					</div>
-				</div>
-			</div>
+					     </div>
+						       </div>
+	
 			<div className="tab-pane fade show active" id="pills-team4" role="tabpanel" aria-labelledby="pills-team4-tab">
 				<div className="team-grids row">
 					<div className="col-lg-6">
@@ -67,12 +68,11 @@ export default function Coffes() {
 						<p className="pt-3">Donec malesuada ex sit amet pretium sid ornare. Nulla congue scelerisque tellus, utpretium. Mauris suscipit
 						nisi ut ipsum egestas, et velit convallis. Phasellus rhoncus tempus. </p>
                         <a href="#buy" className="btn btn-style btn-primary mt-md-5 mt-4">Buy Now</a>
-					</div>
-				</div>
-			</div>
-            </div>
-
-	</div>
+					</div>	
+					</div>	
+					</div>   
+					 </div>
+					 </div>
 </section>
 {/* <!-- //tabs team --> */}
 <div className="w3l-text py-5">
@@ -84,15 +84,10 @@ export default function Coffes() {
                     celebrate
                     exceptional coffee brands and roasters.</p>
                 <Link className="btn btn-style btn-primary mt-sm-5 mt-4 mr-lg-3 mr-1" to="/Contact"> Contact Us</Link>
-                
-             
             </div>
             <div className="col-lg-4 mt-lg-0 mt-4">
                 <img src="assets/images/3.png" className="img-fluid" alt=""/>
-            </div>
-        </div>
-    </div>
-</div>
+            </div> </div>  </div></div>
 <section className="w3l-specification-6 py-5">
     {/* <!-- /specification-6--> */}
     <div className="specification-6-mian py-lg-5 py-md-4">
@@ -107,11 +102,10 @@ export default function Coffes() {
                     <a className="btn btn-style btn-primary mt-sm-5 mt-4" href="#order"> Start your Order</a>
                 </div>
                 <div className="counter-6-inf-left1 col-lg-6">
-
                 </div>
             </div>
         </div>
-    </div>
+		 </div>
 </section>
 
 
