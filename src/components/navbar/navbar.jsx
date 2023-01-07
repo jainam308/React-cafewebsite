@@ -33,10 +33,7 @@ export default function Navbar() {
                  </li>
                  <li className="nav-item @@services__active">
                     <Link className="nav-link" to="/Coffes">Our coffees</Link>
-                 </li>
-                 <li className="nav-item @@contact__active">
-                   <Link className="nav-link" to="/Serviceandproducts">Serviceandproducts</Link>
-                 </li> 
+                 </li>                
                    <li className="nav-item @@contact__active">
                    <Link className="nav-link" to="/Contact">Contact</Link>
                  </li> 
@@ -51,23 +48,6 @@ export default function Navbar() {
        <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
        <button className="btn btn-outline-danger" type="submit">Search</button>
      </form>
-     {/* <!-- toggle switch for light and dark theme --> */}
-     <div className="mobile-position">
-             <nav className="navigation">
-                 <div className="theme-switch-wrapper">
-                     <label className="theme-switch" for="checkbox">
-                         <input type="checkbox" id="checkbox"/>
-                         <div className="mode-container">
-                             <i className="gg-sun"></i>
-                             <i className="gg-moon"></i>
-                         </div>
-                     </label>
-                 </div>
-             </nav>
-         </div>
-         {/* <!-- //toggle switch for light and dark theme --> */}
-
-
    </div>
  </div>
 </nav>
