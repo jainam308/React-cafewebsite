@@ -6,7 +6,9 @@ import Gallery from '../../components/Gallery/Gallery';
  function Home() {
   return (
     <>
-<div className="container">
+<div className="container-fluid" >
+
+<img src="assets/images/cafe1.jpg" alt="" width="100%" height="100%"/>
    
 {/* !-- /main-slider --> */}
 <section className="w3l-servicesblock py-5" id="who">

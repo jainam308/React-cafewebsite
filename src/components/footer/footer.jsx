@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Footer() {
   return (
-    <div> <section className="w3l-footer-29-main">
-    <div className="footer-29 py-5 bg-dark text-white">
+    <div> <section className="29-main">
+    <div className="footer-29 py-5 ">
       <div className="container py-lg-4 py-sm-3">
         <div className="row footer-top-29">
           <div className="col-lg-5 footer-list-29 footer-1">

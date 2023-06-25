@@ -5,8 +5,8 @@ export default function Navbar() {
   return (
     <>
     <header id="site-header" className="fixed-top">
-    <nav className="navbar navbar-expand-lg navbar-dark  bg-dark">
- <div className="container-fluid">
+    <nav className="navbar navbar-expand-lg navbar-dark">
+ <div class="container">
  <Link className="navbar-brand" to="#"><b><i>Cheers Cafe</i></b></Link>
    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
      <span className="navbar-toggler-icon"></span>

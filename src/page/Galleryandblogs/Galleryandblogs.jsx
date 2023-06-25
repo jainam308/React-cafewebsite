@@ -6,7 +6,8 @@ export default function Galleryandblogs() {
   return (
     <>
 {/* gallery */}
-<section className="w3l-gallery" id="gallery">
+<div class="container-fluid bg-dark">
+<section className="w3l-gallery " id="gallery">
     <div className="destionation-innf py-5">
         <div className="container py-lg-5 py-md-4 py-2">
             <div className="title-content">
@@ -79,6 +80,7 @@ export default function Galleryandblogs() {
            </div>
            </div> 
            {/* blog end */}
+           </div>
 </>
   )
 }

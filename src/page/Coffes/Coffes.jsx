@@ -5,13 +5,13 @@ import Coffescomponent from '../../components/Coffescomponent/Coffescomponent';
 export default function Coffes() {
   return (
     <> 
-  <section className="team py-5" id="team">
+  <section className="team py-5 bg-dark" id="team">
 	<div className="container py-lg-5 py-md-4 py-2">
 		<ul className="nav nav-pills" id="pills-tab1" role="tablist">
-			 <Coffescomponent  class="nav-link active" id="pills-team1-tab" href="#pills-team1"  aria="true" imgname="assets/images/1.png" />
-			<Coffescomponent   class="nav-link active"id="pills-team2-tab" href="#pills-team2" aria="true" imgname="assets/images/2.png" />
-			<Coffescomponent  class="nav-link active"id="pills-team3-tab" href="#pills-team3"   aria="true" imgname="assets/images/3.png" />
-			 <Coffescomponent class="nav-link active"id="pills-team4-tab" href="#pills-team4"   aria="true" imgname="assets/images/4.png" />
+			 <Coffescomponent  class="nav-link" id="pills-team1-tab" href="#pills-team1"  aria="true" imgname="assets/images/1.png" />
+			<Coffescomponent   class="nav-link"id="pills-team2-tab" href="#pills-team2" aria="true" imgname="assets/images/2.png" />
+			<Coffescomponent  class="nav-link"id="pills-team3-tab" href="#pills-team3"   aria="true" imgname="assets/images/3.png" />
+			 <Coffescomponent class="nav-link"id="pills-team4-tab" href="#pills-team4"   aria="true" imgname="assets/images/4.png" />
 			 <Coffescomponent  class="nav-link "id="pills-team1-tab" href="#pills-team1"  aria="false" imgname="assets/images/1.png" />
 			<Coffescomponent  class="nav-link "id="pills-team2-tab" href="#pills-team2"   aria="false"imgname="assets/images/2.png" />
 			<Coffescomponent  class="nav-link "id="pills-team3-tab" href="#pills-team3"   aria="false"imgname="assets/images/3.png" />
